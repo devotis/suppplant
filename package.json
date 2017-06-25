@@ -1,0 +1,28 @@
+{
+  "name": "suppplant",
+  "version": "1.0.1",
+  "description": "Crockford's .supplant method but with support multiple level objects",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "eslint --ext=.js .",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devotis/suppplant.git"
+  },
+  "keywords": [
+    "supplant",
+    "suppplant"
+  ],
+  "author": "Christiaan Westerbeek <chris@devotis.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devotis/suppplant/issues"
+  },
+  "homepage": "https://github.com/devotis/suppplant#readme",
+  "devDependencies": {
+    "eslint": "4.1.0",
+    "tape": "4.6.3"
+  }
+}
