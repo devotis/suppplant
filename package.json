@@ -1,8 +1,11 @@
 {
   "name": "suppplant",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Crockford's .supplant method but with support multiple level objects",
   "main": "index.js",
+  "engines": {
+    "node": ">=4.4.5"
+  },
   "scripts": {
     "pretest": "eslint --ext=.js .",
     "test": "node test.js"
