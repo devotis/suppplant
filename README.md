@@ -23,7 +23,7 @@ let string = suppplant('{we.should.all.be.friends}', {
     }
   }
 })
-// yes
+// Yes
 ```
 
 ## Install
