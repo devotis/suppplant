@@ -1,11 +1,10 @@
 [![Build Status](https://travis-ci.org/devotis/node-suppplant.svg)](https://travis-ci.org/devotis/node-suppplant)
 [![npm version](https://badge.fury.io/js/suppplant.svg)](https://www.npmjs.org/package/suppplant)
-https://travis-ci.org/devotis/suppplant.svg?branch=master
 
 Suppplant -- yes, 3 p's
 =======================
 
-This is officially a thing now. It's Crockford's .supplant method but with support multiple level objects.
+This is officially a thing now. It's Crockford's .supplant method but with support for multiple level objects.
 I needed it today. It was [asked before](https://stackoverflow.com/questions/12910430/crockfords-supplant-with-multiple-level-objects) and answered in 2012. All credits for the solution go to [Bergi](https://stackoverflow.com/users/1048572/bergi) who posted the answer back then
 
 ## Usage

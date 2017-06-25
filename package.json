@@ -1,7 +1,7 @@
 {
   "name": "suppplant",
   "version": "1.0.2",
-  "description": "Crockford's .supplant method but with support multiple level objects",
+  "description": "Crockford's .supplant method but with support for multiple level objects",
   "main": "index.js",
   "engines": {
     "node": ">=4.4.5"
