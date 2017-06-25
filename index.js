@@ -1,3 +1,5 @@
+'use strict'
+
 module.exports = (str, o) => {
   return str.replace (/{([^{}]*)}/g,
     (a, b) => {
