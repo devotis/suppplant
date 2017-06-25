@@ -1,4 +1,6 @@
-[![npm version](https://badge.fury.io/js/suppplant.svg)](https://badge.fury.io/js/suppplant)
+[![Build Status](https://travis-ci.org/devotis/node-suppplant.svg)](https://travis-ci.org/devotis/node-suppplant)
+[![npm version](https://badge.fury.io/js/suppplant.svg)](https://www.npmjs.org/package/suppplant)
+https://travis-ci.org/devotis/suppplant.svg?branch=master
 
 Suppplant -- yes, 3 p's
 =======================
